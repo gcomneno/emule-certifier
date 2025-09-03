@@ -1,0 +1,16 @@
+# File di configurazione per eMule-Certifier
+
+# Directory da scansionare (puoi indicarne più di una)
+paths:
+  - ./ebooks
+  - ./pdfs
+
+# Estensioni dei file supportati
+extensions:
+  - ".pdf"
+  - ".epub"
+  - ".mobi"
+  - ".azw3"
+
+# File di output (default: report.csv)
+output: report.csv
