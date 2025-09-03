@@ -1,0 +1,12 @@
+archive_paths:
+  - "I:/DATA/Giancarlo/Documenti/Informatica"
+  - "I:/DATA/Giancarlo/Documenti/Libri (Kindle)"
+
+extensions:
+  - .pdf
+  - .epub
+  - .azw3
+  - .mobi
+
+ed2k_links_file: "C:/Users/GIANKO/Desktop/Download/temp.txt"
+output_csv: "downloaded.csv"
